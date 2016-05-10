@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="test2.css"?>
+
+<FirstTag>
+  This is our first xml file
+  <!-- comments go here -->
+</FirstTag>

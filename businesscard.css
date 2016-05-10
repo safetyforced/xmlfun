@@ -1,0 +1,20 @@
+Name {
+    color: black;
+    font-weight: bold;
+    font-size: 140%;
+    display: block;
+    margin-bottom: 3%;
+}
+phone {
+    font-size: 90%;
+    color: black;
+    font-size: 90%;
+    display: block;
+}
+email {
+    color: black;
+    font-size: 90%;
+    font-weight: bold;
+    display: block;
+    margin-top: 3%;
+}

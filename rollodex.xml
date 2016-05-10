@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="businesscard.css"?>
+
+<BusinessCard>
+    <Name>Joe Shmo</Name>
+    <phone type="mobile">(313)555-5555</phone>
+    <phone type="work">(313)455-5544</phone>
+    <phone type="fax">(206)315-2929</phone>
+    <email>joe@shmo.com</email>
+</BusinessCard>
